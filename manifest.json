@@ -1,0 +1,984 @@
+{
+"images": {
+"1_Title/Background": [
+1280,
+720
+],
+"1_Title/Banapas_Load": [
+1280,
+720
+],
+"1_Title/Banapas_Load_Anime": [
+576,
+72
+],
+"1_Title/Banapas_Load_Clear": [
+1280,
+720
+],
+"1_Title/Banapas_Load_Clear_Anime": [
+138,
+103
+],
+"1_Title/Banapas_Load_Failure": [
+1280,
+720
+],
+"1_Title/Banapas_Load_Text": [
+1280,
+720
+],
+"1_Title/Donchan_Entry/0": [
+310,
+242
+],
+"1_Title/Donchan_Entry/1": [
+310,
+242
+],
+"1_Title/Donchan_Entry/10": [
+310,
+242
+],
+"1_Title/Donchan_Entry/11": [
+310,
+242
+],
+"1_Title/Donchan_Entry/12": [
+310,
+242
+],
+"1_Title/Donchan_Entry/13": [
+310,
+242
+],
+"1_Title/Donchan_Entry/14": [
+310,
+242
+],
+"1_Title/Donchan_Entry/15": [
+310,
+242
+],
+"1_Title/Donchan_Entry/16": [
+310,
+242
+],
+"1_Title/Donchan_Entry/17": [
+310,
+242
+],
+"1_Title/Donchan_Entry/18": [
+310,
+242
+],
+"1_Title/Donchan_Entry/19": [
+310,
+242
+],
+"1_Title/Donchan_Entry/2": [
+310,
+242
+],
+"1_Title/Donchan_Entry/20": [
+310,
+242
+],
+"1_Title/Donchan_Entry/21": [
+310,
+242
+],
+"1_Title/Donchan_Entry/22": [
+310,
+242
+],
+"1_Title/Donchan_Entry/23": [
+310,
+242
+],
+"1_Title/Donchan_Entry/24": [
+310,
+242
+],
+"1_Title/Donchan_Entry/25": [
+310,
+242
+],
+"1_Title/Donchan_Entry/26": [
+310,
+242
+],
+"1_Title/Donchan_Entry/27": [
+310,
+242
+],
+"1_Title/Donchan_Entry/28": [
+310,
+242
+],
+"1_Title/Donchan_Entry/29": [
+310,
+242
+],
+"1_Title/Donchan_Entry/3": [
+310,
+242
+],
+"1_Title/Donchan_Entry/30": [
+310,
+242
+],
+"1_Title/Donchan_Entry/31": [
+310,
+242
+],
+"1_Title/Donchan_Entry/32": [
+310,
+242
+],
+"1_Title/Donchan_Entry/33": [
+310,
+242
+],
+"1_Title/Donchan_Entry/34": [
+310,
+242
+],
+"1_Title/Donchan_Entry/35": [
+310,
+242
+],
+"1_Title/Donchan_Entry/36": [
+310,
+242
+],
+"1_Title/Donchan_Entry/37": [
+310,
+242
+],
+"1_Title/Donchan_Entry/38": [
+310,
+242
+],
+"1_Title/Donchan_Entry/39": [
+310,
+242
+],
+"1_Title/Donchan_Entry/4": [
+310,
+242
+],
+"1_Title/Donchan_Entry/40": [
+310,
+242
+],
+"1_Title/Donchan_Entry/41": [
+310,
+242
+],
+"1_Title/Donchan_Entry/42": [
+310,
+242
+],
+"1_Title/Donchan_Entry/43": [
+310,
+242
+],
+"1_Title/Donchan_Entry/5": [
+310,
+242
+],
+"1_Title/Donchan_Entry/6": [
+310,
+242
+],
+"1_Title/Donchan_Entry/7": [
+310,
+242
+],
+"1_Title/Donchan_Entry/8": [
+310,
+242
+],
+"1_Title/Donchan_Entry/9": [
+310,
+242
+],
+"1_Title/Donchan_Normal/0": [
+300,
+304
+],
+"1_Title/Donchan_Normal/1": [
+300,
+304
+],
+"1_Title/Donchan_Normal/10": [
+300,
+304
+],
+"1_Title/Donchan_Normal/11": [
+300,
+304
+],
+"1_Title/Donchan_Normal/12": [
+300,
+304
+],
+"1_Title/Donchan_Normal/2": [
+300,
+304
+],
+"1_Title/Donchan_Normal/3": [
+300,
+304
+],
+"1_Title/Donchan_Normal/4": [
+300,
+304
+],
+"1_Title/Donchan_Normal/5": [
+300,
+304
+],
+"1_Title/Donchan_Normal/6": [
+300,
+304
+],
+"1_Title/Donchan_Normal/7": [
+300,
+304
+],
+"1_Title/Donchan_Normal/8": [
+300,
+304
+],
+"1_Title/Donchan_Normal/9": [
+300,
+304
+],
+"1_Title/Entry_Bar": [
+1280,
+720
+],
+"1_Title/Entry_Bar_Text": [
+395,
+100
+],
+"1_Title/Entry_Player": [
+1280,
+720
+],
+"1_Title/Entry_Player_Select": [
+423,
+276
+],
+"1_Title/Entry_Player_Select_Bar": [
+1280,
+720
+],
+"1_Title/Menu": [
+256,
+256
+],
+"1_Title/ModeSelect_Bar_0": [
+642,
+106
+],
+"1_Title/ModeSelect_Bar_1": [
+642,
+106
+],
+"1_Title/ModeSelect_Bar_Chara_0": [
+822,
+270
+],
+"1_Title/ModeSelect_Bar_Chara_1": [
+822,
+270
+],
+"1_Title/ModeSelect_Bar_Overlay": [
+642,
+106
+],
+"1_Title/ModeSelect_Bar_Text_0": [
+642,
+270
+],
+"1_Title/ModeSelect_Bar_Text_1": [
+642,
+270
+],
+"1_Title/danihd": [
+1280,
+720
+],
+"2_Config/Arrow": [
+64,
+48
+],
+"2_Config/Background": [
+1280,
+720
+],
+"2_Config/Cursor": [
+32,
+32
+],
+"2_Config/Enum_Song": [
+530,
+225
+],
+"2_Config/Font": [
+256,
+256
+],
+"2_Config/Font_Bold": [
+256,
+256
+],
+"2_Config/Header": [
+1280,
+720
+],
+"2_Config/ItemBox": [
+614,
+72
+],
+"2_Config/KeyAssign": [
+128,
+100
+],
+"4_SongLoading/Bg": [
+1280,
+720
+],
+"4_SongLoading/Bg_Dan": [
+1280,
+783
+],
+"4_SongLoading/Bg_Wait": [
+1280,
+720
+],
+"4_SongLoading/Chara": [
+1280,
+720
+],
+"4_SongLoading/Fade": [
+1280,
+720
+],
+"4_SongLoading/Plate": [
+1280,
+720
+],
+"6_Result/Background": [
+1280,
+720
+],
+"6_Result/Background_0": [
+1280,
+720
+],
+"6_Result/Background_1": [
+1280,
+720
+],
+"6_Result/Background_Mountain_0": [
+1280,
+720
+],
+"6_Result/Background_Mountain_1": [
+1280,
+720
+],
+"6_Result/Crown/Crown_0": [
+149,
+112
+],
+"6_Result/Crown/Crown_1": [
+149,
+112
+],
+"6_Result/Crown/Crown_2": [
+149,
+112
+],
+"6_Result/Dan": [
+1500,
+500
+],
+"6_Result/DifficultyBar": [
+185,
+287
+],
+"6_Result/FadeIn": [
+1280,
+740
+],
+"6_Result/Gauge": [
+487,
+55
+],
+"6_Result/Gauge_Base": [
+560,
+37
+],
+"6_Result/Header": [
+1280,
+110
+],
+"6_Result/Judge": [
+73,
+134
+],
+"6_Result/Number": [
+355,
+80
+],
+"6_Result/Panel": [
+1280,
+720
+],
+"6_Result/Rainbow/0": [
+487,
+31
+],
+"6_Result/Rainbow/1": [
+487,
+31
+],
+"6_Result/Rainbow/10": [
+487,
+31
+],
+"6_Result/Rainbow/11": [
+487,
+31
+],
+"6_Result/Rainbow/12": [
+487,
+31
+],
+"6_Result/Rainbow/13": [
+487,
+31
+],
+"6_Result/Rainbow/14": [
+487,
+31
+],
+"6_Result/Rainbow/15": [
+487,
+31
+],
+"6_Result/Rainbow/16": [
+487,
+31
+],
+"6_Result/Rainbow/17": [
+487,
+31
+],
+"6_Result/Rainbow/18": [
+487,
+31
+],
+"6_Result/Rainbow/19": [
+487,
+31
+],
+"6_Result/Rainbow/2": [
+487,
+31
+],
+"6_Result/Rainbow/20": [
+487,
+31
+],
+"6_Result/Rainbow/21": [
+487,
+31
+],
+"6_Result/Rainbow/22": [
+487,
+31
+],
+"6_Result/Rainbow/23": [
+487,
+31
+],
+"6_Result/Rainbow/24": [
+487,
+31
+],
+"6_Result/Rainbow/25": [
+487,
+31
+],
+"6_Result/Rainbow/26": [
+487,
+31
+],
+"6_Result/Rainbow/27": [
+487,
+31
+],
+"6_Result/Rainbow/28": [
+487,
+31
+],
+"6_Result/Rainbow/29": [
+487,
+31
+],
+"6_Result/Rainbow/3": [
+487,
+31
+],
+"6_Result/Rainbow/30": [
+487,
+31
+],
+"6_Result/Rainbow/31": [
+487,
+31
+],
+"6_Result/Rainbow/32": [
+487,
+31
+],
+"6_Result/Rainbow/33": [
+487,
+31
+],
+"6_Result/Rainbow/34": [
+487,
+31
+],
+"6_Result/Rainbow/35": [
+487,
+31
+],
+"6_Result/Rainbow/36": [
+487,
+31
+],
+"6_Result/Rainbow/37": [
+487,
+31
+],
+"6_Result/Rainbow/38": [
+487,
+31
+],
+"6_Result/Rainbow/39": [
+487,
+31
+],
+"6_Result/Rainbow/4": [
+487,
+31
+],
+"6_Result/Rainbow/40": [
+487,
+31
+],
+"6_Result/Rainbow/5": [
+487,
+31
+],
+"6_Result/Rainbow/6": [
+487,
+31
+],
+"6_Result/Rainbow/7": [
+487,
+31
+],
+"6_Result/Rainbow/8": [
+487,
+31
+],
+"6_Result/Rainbow/9": [
+487,
+31
+],
+"6_Result/Result_Donchan_Clear/0": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/1": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/10": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/11": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/12": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/13": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/14": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/15": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/16": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/17": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/18": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/19": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/2": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/20": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/21": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/22": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/23": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/24": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/25": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/26": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/27": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/28": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/29": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/3": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/30": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/31": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/32": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/33": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/34": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/35": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/36": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/37": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/4": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/5": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/6": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/7": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/8": [
+324,
+249
+],
+"6_Result/Result_Donchan_Clear/9": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/0": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/1": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/10": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/11": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/12": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/13": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/14": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/15": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/16": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/17": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/18": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/19": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/2": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/20": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/21": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/22": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/23": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/24": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/25": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/26": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/27": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/3": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/4": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/5": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/6": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/7": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/8": [
+324,
+249
+],
+"6_Result/Result_Donchan_Normal/9": [
+324,
+249
+],
+"6_Result/Result_Soul_Fire": [
+1200,
+131
+],
+"6_Result/Score_Number": [
+510,
+60
+],
+"6_Result/Score_Text": [
+40,
+46
+],
+"6_Result/Soul_Text": [
+111,
+37
+],
+"7_DanResult/Background": [
+1280,
+720
+],
+"9_NamePlateEffect/GoldBStar": [
+72,
+72
+],
+"9_NamePlateEffect/GoldMStar": [
+28,
+27
+],
+"9_NamePlateEffect/PurpleBStar": [
+72,
+72
+],
+"9_NamePlateEffect/PurpleMStar": [
+28,
+27
+],
+"9_NamePlateEffect/Slash": [
+54,
+18
+],
+"Tile_Black": [
+64,
+64
+],
+"NamePlate": [
+220,
+648
+],
+"Menu_Title": [
+320,
+400
+],
+"Menu_Highlight": [
+32,
+32
+],
+"Enum_Song": [
+89,
+43
+],
+"Scanning_Loudness": [
+89,
+43
+],
+"Network_Connection": [
+100,
+50
+],
+"Readme": [
+1280,
+720
+],
+"Console_Font": [
+256,
+256
+],
+"Console_Font_Small": [
+256,
+256
+]
+},
+"sounds": [
+"BGM/DaniSelect.ogg",
+"BGM/Result.ogg",
+"BGM/Result_In.ogg",
+"BGM/SongSelect.ogg",
+"BGM/SongSelect_Start.ogg",
+"BGM/Title.ogg",
+"BGM/Title_Start.ogg",
+"Banapas.ogg",
+"Cancel.ogg",
+"Change.ogg",
+"Dan/Failed.ogg",
+"Dan/Section.ogg",
+"Decide.ogg",
+"Entry.ogg",
+"Error.ogg",
+"Gauge.ogg",
+"Jump Point.ogg",
+"Move.ogg",
+"Pause.ogg",
+"Pon.ogg",
+"ScoreDon.ogg",
+"Scroll.ogg",
+"Skip.ogg",
+"SongDecide.ogg",
+"Taiko/Adlib.ogg",
+"Taiko/dong.ogg",
+"Taiko/ka.ogg",
+"Traning Skip.ogg",
+"balloon.ogg",
+"sanka.ogg"
+]
+}
